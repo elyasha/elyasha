@@ -1,4 +1,7 @@
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" href="https://dev.to/elyasha" width=50 alt="Matheus Elyasha 's DEV Profile">
+<a href="https://dev.to/elyasha/">
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"  width=50 alt="Matheus Elyasha 's DEV Profile">
+</a>
+
 
 ### Hi there, I'am Matheus Elyasha 👋
 
