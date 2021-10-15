@@ -5,7 +5,7 @@
 
 ### Hi there, I'am Matheus Elyasha 👋
 
-I am a double degree student at [CentraleSupélec](https://www.centralesupelec.fr) (FR) and [University of Brasília](https://www.unb.br) (BR). I have worked at [EDF](https://github.com/EDF-TREE) as a software engineer and at [BRASA](https://github.com/gobrasa) as a Tech Lead. I am passionate about new solutions and creating good software that has value for humanity, that is the reason why I created [Coding 55](https://github.com/Coding55). Nowadays, I am its current CEO and I look forward to a good future for the Web Development community.
+I am a double degree student at [CentraleSupélec](https://www.centralesupelec.fr) (FR) and [University of Brasília](https://www.unb.br) (BR). I have worked at [EDF](https://github.com/EDF-TREE) as a software engineer and at [BRASA](https://github.com/gobrasa) as a Tech Lead. I am passionate about new solutions and creating good software that has value for humanity, that is the reason why I created [Coding 55](https://github.com/Coding55). Nowadays, I am its current CEO and I look forward to a good future for the Web Development community and I lead the development team to create [Cartya](https://cartya.com.br) at Space Technology.
 
  <div>
   <a href="https://github.com/elyasha">
