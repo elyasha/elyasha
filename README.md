@@ -25,8 +25,7 @@ I am a double degree student at [CentraleSupélec](https://www.centralesupelec.f
 
 ### How to reach me 📫:
 
-matheus.elyasha@coding55.com
-
+matheuselyasha@gmail.com
 
 
 ### Fun fact ⚡: 
